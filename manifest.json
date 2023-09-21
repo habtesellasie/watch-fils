@@ -1,0 +1,16 @@
+{
+  "short_name": "app name",
+  "name": "react app name",
+  "lang": "eng",
+  "start_url": "index.html",
+  "display": "standalone",
+  "theme_color": "#469ace",
+  "background_color": "#469ace",
+  "icon": [
+    {
+      "src": "app-icon.png",
+      "sizes": "612x612",
+      "type": ""
+    }
+  ]
+}
